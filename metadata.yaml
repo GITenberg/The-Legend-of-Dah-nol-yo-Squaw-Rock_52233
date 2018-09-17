@@ -1,0 +1,24 @@
+_repo: The-Legend-of-Dah-nol-yo-Squaw-Rock_52233
+_version: 0.0.1
+creator:
+  author:
+    agent_name: Carpenter, Helen McCowen
+    deathdate: 1917
+    gutenberg_agent_id: '46737'
+    url: http://www.gutenberg.org/2009/agents/46737
+description: ''
+gutenberg_issued: '2016-06-03'
+gutenberg_type: Text
+identifiers:
+  gutenberg: '52233'
+language: en
+publisher: Project Gutenberg
+rights: Public domain in the USA.
+rights_url: http://creativecommons.org/about/pdm
+subjects:
+- !lcsh 'Indians of North America -- California -- Folklore'
+- !lcc 'E011'
+- !lcsh 'Pomo Indians -- Legends'
+- GITenberg
+title: The Legend of Dah-nol-yo, Squaw Rock
+url: http://www.gutenberg.org/ebooks/52233
